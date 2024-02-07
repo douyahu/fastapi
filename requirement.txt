@@ -1,4 +1,4 @@
-fastapi[all]==0.75.2
+fastapi==0.109.1
 aioredis==2.0.1
 cos-python-sdk-v5==1.9.15
 PyJWT==2.3.0
